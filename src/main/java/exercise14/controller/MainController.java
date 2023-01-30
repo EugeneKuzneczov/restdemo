@@ -1,7 +1,7 @@
-package ru.evolenta.restdemo.controller;
+package exercise14.controller;
 
+import exercise14.entity.Message;
 import org.springframework.web.bind.annotation.*;
-import ru.evolenta.restdemo.entity.Message;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
