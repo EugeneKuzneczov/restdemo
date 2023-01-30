@@ -1,4 +1,4 @@
-package ru.evolenta.restdemo.entity;
+package exercise14.entity;
 
 import java.time.LocalDateTime;
 
